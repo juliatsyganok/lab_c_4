@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -Wl,--dependency-file=CMakeFiles/lab_tests.dir/link.d CMakeFiles/lab_tests.dir/tests/tests.cpp.o -o lab_tests  liblab_core.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a

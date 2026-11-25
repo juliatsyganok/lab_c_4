@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/src/Patient.cpp" "CMakeFiles/lab_core.dir/src/Patient.cpp.o" "gcc" "CMakeFiles/lab_core.dir/src/Patient.cpp.o.d"
+  "/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/src/Selection.cpp" "CMakeFiles/lab_core.dir/src/Selection.cpp.o" "gcc" "CMakeFiles/lab_core.dir/src/Selection.cpp.o.d"
+  "/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/src/Tree.cpp" "CMakeFiles/lab_core.dir/src/Tree.cpp.o" "gcc" "CMakeFiles/lab_core.dir/src/Tree.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

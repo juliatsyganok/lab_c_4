@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -Wl,--dependency-file=CMakeFiles/lab05.dir/link.d CMakeFiles/lab05.dir/src/main.cpp.o -o lab05  liblab_core.a

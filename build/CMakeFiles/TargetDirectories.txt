@@ -1,0 +1,6 @@
+/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build/CMakeFiles/lab_core.dir
+/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build/CMakeFiles/lab05.dir
+/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build/CMakeFiles/lab_tests.dir
+/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build/CMakeFiles/test.dir
+/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build/CMakeFiles/rebuild_cache.dir

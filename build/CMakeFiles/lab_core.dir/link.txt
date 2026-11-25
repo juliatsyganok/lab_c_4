@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab_core.a CMakeFiles/lab_core.dir/src/Patient.cpp.o CMakeFiles/lab_core.dir/src/Selection.cpp.o CMakeFiles/lab_core.dir/src/Tree.cpp.o
+/usr/bin/ranlib liblab_core.a

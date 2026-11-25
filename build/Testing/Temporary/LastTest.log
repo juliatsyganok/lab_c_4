@@ -1,0 +1,64 @@
+Start testing: Nov 25 23:23 MSK
+----------------------------------------------------------
+1/1 Testing: Lab05Tests
+1/1 Test: Lab05Tests
+Command: "/mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build/lab_tests"
+Directory: /mnt/c/Users/Admin/Desktop/c_5/lab_c_4/build
+"Lab05Tests" start time: Nov 25 23:23 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+[==========] Running 14 tests from 4 test suites.
+[----------] Global test environment set-up.
+[----------] 8 tests from TreeTest
+[ RUN      ] TreeTest.Insert1
+[       OK ] TreeTest.Insert1 (1 ms)
+[ RUN      ] TreeTest.Find
+[       OK ] TreeTest.Find (0 ms)
+[ RUN      ] TreeTest.Height
+[       OK ] TreeTest.Height (0 ms)
+[ RUN      ] TreeTest.Obhod1
+[       OK ] TreeTest.Obhod1 (0 ms)
+[ RUN      ] TreeTest.RemoveLeaf
+[       OK ] TreeTest.RemoveLeaf (0 ms)
+[ RUN      ] TreeTest.RemoveOneChild
+[       OK ] TreeTest.RemoveOneChild (0 ms)
+[ RUN      ] TreeTest.RemoveTwoChildren
+[       OK ] TreeTest.RemoveTwoChildren (0 ms)
+[ RUN      ] TreeTest.RemoveMissing
+[       OK ] TreeTest.RemoveMissing (0 ms)
+[----------] 8 tests from TreeTest (3 ms total)
+
+[----------] 4 tests from SelectionTest
+[ RUN      ] SelectionTest.PatientCriterion
+[       OK ] SelectionTest.PatientCriterion (0 ms)
+[ RUN      ] SelectionTest.EmptySelection
+[       OK ] SelectionTest.EmptySelection (0 ms)
+[ RUN      ] SelectionTest.DifferentCriteria
+[       OK ] SelectionTest.DifferentCriteria (0 ms)
+[ RUN      ] SelectionTest.CopyAndExpiration
+[       OK ] SelectionTest.CopyAndExpiration (0 ms)
+[----------] 4 tests from SelectionTest (1 ms total)
+
+[----------] 1 test from MoveTest
+[ RUN      ] MoveTest.MoveTreeAndSelection
+[       OK ] MoveTest.MoveTreeAndSelection (0 ms)
+[----------] 1 test from MoveTest (0 ms total)
+
+[----------] 1 test from MemoryTest
+[ RUN      ] MemoryTest.AliveCounter
+[       OK ] MemoryTest.AliveCounter (0 ms)
+[----------] 1 test from MemoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 14 tests from 4 test suites ran. (6 ms total)
+[  PASSED  ] 14 tests.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"Lab05Tests" end time: Nov 25 23:23 MSK
+"Lab05Tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 25 23:23 MSK
